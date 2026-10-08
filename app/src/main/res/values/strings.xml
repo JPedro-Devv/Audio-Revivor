@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Audio Revivor</string>
+    <string name="status_running">Estado: Serviço Rodando em Segundo Plano</string>
+    <string name="status_disabled">Estado: Desativado</string>
+    <string name="btn_start">Ligar Áudio</string>
+    <string name="btn_stop">Desligar Áudio</string>
+
+    <!-- %1$d é um coringa dinâmico para números inteiros (progress da SeekBar) -->
+    <string name="volume_format">Volume: %1$d mB</string>
+
+    <!-- Notificação -->
+    <string name="notif_title">Redirecionamento de Áudio Ativo</string>
+    <string name="notif_desc">O áudio do sistema está sendo enviado para o alto-falante superior.</string>
+</resources>

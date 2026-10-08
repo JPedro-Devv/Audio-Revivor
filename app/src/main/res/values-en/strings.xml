@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Audio Revivor</string>
+    <string name="status_running">Status: Service Running in Background</string>
+    <string name="status_disabled">Status: Disabled</string>
+    <string name="btn_start">Start Audio</string>
+    <string name="btn_stop">Stop Service</string>
+
+    <!-- %1$d é um coringa dinâmico para números inteiros (progress da SeekBar) -->
+    <string name="volume_format">Volume: %1$d mB</string>
+
+    <!-- Notificação -->
+    <string name="notif_title">Audio Redirection Active</string>
+    <string name="notif_desc">System audio is being routed to the earpiece speaker.</string>
+</resources>
